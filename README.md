@@ -1,1 +1,1 @@
-cm-11.0 device tree for HTC One X (endeavoru)
+kk_mkt device tree for HTC One X (endeavoru)
